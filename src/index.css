@@ -1,0 +1,8 @@
+h1 {
+  display: none; /* Si présent, supprimez cette ligne */
+}
+
+/* Vérifiez les couleurs */
+h1 {
+  color: white; /* Si le fond est blanc, changez la couleur */
+}

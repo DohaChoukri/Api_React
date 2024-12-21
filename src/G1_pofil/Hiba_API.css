@@ -1,0 +1,39 @@
+.card{
+border-radius: 15px ;
+box-shadow: 5px 5px 15px #674b4baa;
+padding : 20px;
+width: 300px;
+text-align: center;
+transition: transform 0.3S ease, box-shadow 0.3s ease;
+margin: 20px auto;
+}
+.crt{
+    display: flex;
+    justify-content: baseline;
+    align-items:start;
+}
+body{
+    background-color:#e8e6e6;
+}
+#post{
+    background-color:#C4DAD2 ;
+    width: 250px;
+}
+#button{
+   background-color: #16423C;
+}
+#user{
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+#img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#post1{
+    display:inline;
+    justify-content: center;
+    align-items: center;
+}
