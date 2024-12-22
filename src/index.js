@@ -1,16 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-// import Hiba_api from './G1_pofil/Hiba_API';
-import App from './App';
+import React_api from './G1_pofil/React_API';
+// import App from './App';
 // import Blog from './rout/blog';
 import { BrowserRouter } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
   <BrowserRouter>
-     {/* <Hiba_api/> */}
-     <App/>
+     <React_api />
+     {/* <App/> */}
      {/* <Blog /> */}
   </BrowserRouter>
 );

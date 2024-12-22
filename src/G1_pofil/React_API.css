@@ -6,6 +6,7 @@ width: 300px;
 text-align: center;
 transition: transform 0.3S ease, box-shadow 0.3s ease;
 margin: 20px auto;
+height: 500px;
 }
 .crt{
     display: flex;
@@ -36,4 +37,7 @@ body{
     display:inline;
     justify-content: center;
     align-items: center;
+}
+#profil{
+    height: 250px;
 }
