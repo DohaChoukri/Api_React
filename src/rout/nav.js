@@ -1,7 +1,8 @@
 import React from 'react';
 import Nav from 'react-bootstrap/Nav';
-import { Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Link } from 'react-router-dom';
+
 
 export default function Nav1() {
   return (
